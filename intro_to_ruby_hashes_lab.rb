@@ -26,9 +26,9 @@ def monopoly_with_third_tier
   hashheroes = {
     "Avengers" => {
       :members => {
-        :first_hero => "iron Man"
-        :second_hero => "captain America"
-        :third => "Thor"
+        :first_hero => "iron Man",
+        :second_hero => "captain America",
+        :third => "Thor",
         :fourth => "hulk"
       },
       
@@ -50,16 +50,16 @@ def monopoly_with_fourth_tier
   hashheroes = {
     "Avengers" => {
       :members => {
-        :first_hero => "iron Man"
-        :second_hero => "captain America"
-        :third => "Thor"
+        :first_hero => "iron Man",
+        :second_hero => "captain America",
+        :third => "Thor",
         :fourth => "hulk"
       },
       
       :powers => {
-        :iron_avenger => {:power => "energy beam"}
-        :super_soldier => {:power => "shield"}
-        :god => {:power => "thunder"}
+        :iron_avenger => {:power => "energy beam"},
+        :super_soldier => {:power => "shield"},
+        :god => {:power => "thunder"},
         :gamma_bomb => {:power => "stregnth"}
       },
     }
