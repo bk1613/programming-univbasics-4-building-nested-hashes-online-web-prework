@@ -25,7 +25,12 @@ def monopoly_with_third_tier
   # complexity.
   hashheroes = {
     "Avengers" => {
-      
+      :members => {
+        :first_hero => "iron Man"
+        :second_hero => "captain America"
+        :third => "Thor"
+        :furth => "hulk"
+      }
     }
   }
 end
