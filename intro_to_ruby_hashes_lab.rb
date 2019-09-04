@@ -29,7 +29,14 @@ def monopoly_with_third_tier
         :first_hero => "iron Man"
         :second_hero => "captain America"
         :third => "Thor"
-        :furth => "hulk"
+        :fourth => "hulk"
+      }
+      
+      :powers => {
+        :suit => "energy beam"
+        :shield => "super soldier"
+        :hammer => "thunder"
+        :gamma => "strength"
       }
     }
   }
