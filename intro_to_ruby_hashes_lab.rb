@@ -54,14 +54,14 @@ def monopoly_with_fourth_tier
         :second_hero => "captain America"
         :third => "Thor"
         :fourth => "hulk"
-      }
+      },
       
       :powers => {
         :iron_avenger => {:power => "energy beam"}
         :super_soldier => {:power => "shield"}
         :god => {:power => "thunder"}
         :gamma_bomb => {:power => "stregnth"}
-      }
+      },
     }
   }
 end
