@@ -13,7 +13,7 @@ def monopoly_with_second_tier
   # complexity.
   hashrailroad = {
     :railroads => {
-      :name => "iron Man"
+      :pieces => 4
     }
   }
 end
