@@ -57,10 +57,10 @@ def monopoly_with_fourth_tier
       }
       
       :powers => {
-        :iron_avenger => {}
-        :super_soldier => {}
-        :god => {}
-        :gamma_bomb => {}
+        :iron_avenger => {:power => "energy beam"}
+        :super_soldier => {:power => "shield"}
+        :god => {:power => "thunder"}
+        :gamma_bomb => {:power => "stregnth"}
       }
     }
   }
