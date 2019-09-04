@@ -33,9 +33,9 @@ def monopoly_with_third_tier
       },
       
       :powers => {
-        :iron_avenger => {}
-        :super_soldier => {}
-        :god => {}
+        :iron_avenger => {},
+        :super_soldier => {},
+        :god => {},
         :gamma_bomb => {}
       },
     }
