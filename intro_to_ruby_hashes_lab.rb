@@ -48,6 +48,20 @@ def monopoly_with_fourth_tier
   # they'll guide you in how to modify what you just did to have more
   # complexity.
   hashheroes = {
-    "Avengers" => {}
+    "Avengers" => {
+      :members => {
+        :first_hero => "iron Man"
+        :second_hero => "captain America"
+        :third => "Thor"
+        :fourth => "hulk"
+      }
+      
+      :powers => {
+        :iron_avenger => {}
+        :super_soldier => {}
+        :god => {}
+        :gamma_bomb => {}
+      }
+    }
   }
 end
