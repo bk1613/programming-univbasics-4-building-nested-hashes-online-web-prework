@@ -16,7 +16,7 @@ def monopoly_with_second_tier
       :members => {
         
       }
-      :name => "iron Man"
+      
     }
   }
 end
